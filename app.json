@@ -1,5 +1,5 @@
 {
-    "name": "سورس جيبثون العرب",
+    "name": "سورس كروزان",
     "description": "تشغيل الاغاني في المجموعات",
     "logo": "https://te.legra.ph/file/46fa55b49b85c084159ce.jpg",
     "keywords": [
@@ -11,9 +11,9 @@
         "mongodb",
         "pyrogram"
     ],
-    "website": "https://t.me/jepthon",
-    "repository": "https://github.com/lMl10l/lMl10l",
-    "success_url": "https://t.me/jepthon",
+    "website": "https://t.me/i_q_u_1",
+    "repository": "https://github.com/cruzann/cruzan-musicc",
+    "success_url": "https://t.me/i_q_u_1",
     "env": {
      "API_ID": {
             "description": "ايبي ايدي",
@@ -40,7 +40,7 @@
         "MONGODB_URL": {
             "description": "لا تغيرها ابد",
             "required": true,
-            "value": "mongodb+srv://hussein87:Hussein87@cluster0.wynpz.mongodb.net/?retryWrites=true&w=majority"
+            "value": "mongodb+srv://aloshhcruzan:alosh599_@cluster0.koeyvb6.mongodb.net/?retryWrites=true&w=majority"
         },
         "SUDO_USERS": {
             "description": "اكتب ايديات المطورين",
